@@ -14,3 +14,6 @@ Method for solving periodic model
 
 ##### '#####'
 Method for solving periodic model
+
+
+Commit 4:18
